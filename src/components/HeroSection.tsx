@@ -20,7 +20,7 @@ const HeroSection = () => {
         >
           QUERO DIAGNOSTICAR E TRATAR MEU CAMPO R$47
           <span className="block text-xs mt-2 opacity-80 tracking-wider font-semibold text-primary-foreground">
-            Vagas limitadas . Evento ao vivo 04/04 . Sem replay gratuito
+            Vagas limitadas . Evento ao vivo 06/04 . Sem replay gratuito
           </span>
         </a>
 

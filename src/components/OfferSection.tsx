@@ -32,7 +32,7 @@ const OfferSection = () => {
             >
               QUERO MEU INGRESSO AGORA
             </a>
-            <p className="text-[0.7rem] mt-4 opacity-70">Evento ao Vivo 04/04 . Sem Replay Gratuito</p>
+            <p className="text-[0.7rem] mt-4 opacity-70">Evento ao Vivo 06/04 . Sem Replay Gratuito</p>
           </div>
         </div>
         <p className="text-center mt-8 text-sm opacity-80">

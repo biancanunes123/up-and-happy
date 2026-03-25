@@ -15,7 +15,7 @@ const HeroSection = () => {
         </span>
 
         <a
-          href="#ingresso"
+          href="https://pay.hotmart.com/Q104997284V?off=0dk6j0qn"
           className="inline-block bg-gradient-to-br from-primary to-[#f1d592] text-primary-foreground py-5 px-10 rounded-lg font-extrabold text-lg uppercase w-full max-w-[650px] shadow-[0_10px_30px_rgba(212,175,55,0.2)] hover:-translate-y-1 hover:shadow-[0_15px_50px_rgba(212,175,55,0.4)] transition-all no-underline text-center mb-10"
         >
           QUERO DIAGNOSTICAR E TRATAR MEU CAMPO R$47

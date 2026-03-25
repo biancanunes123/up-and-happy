@@ -3,7 +3,7 @@ const FastStats = () => {
     { value: "10k+", label: "alunos formados" },
     { value: "240k", label: "seguidores" },
     { value: "3h", label: "prática ao vivo" },
-    { value: "04/04", label: "Data do evento" },
+    { value: "06/04", label: "Data do evento" },
   ];
 
   return (

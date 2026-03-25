@@ -31,7 +31,7 @@ const HeroSection = () => {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 border-t border-b border-primary/20 py-5">
           {[
             { label: "Onde?", value: "Online ao Vivo" },
-            { label: "Quando?", value: "04 de Abril" },
+            { label: "Quando?", value: "06 de Abril" },
             { label: "Duração", value: "3h de Prática" },
             { label: "Nível", value: "Sem Exp. Prévia" },
           ].map((item, i) => (
